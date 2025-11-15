@@ -28,7 +28,7 @@ nav > ul > li {
 nav > ul > li > a {
     padding: 15px;
     border-radius: 10px;
-    transition: background-color .3s ease-in;
+    transition: background-color .2s ease-in;
 }
 
 nav > ul > li > a:hover {
