@@ -12,7 +12,8 @@
 }
 
 body {
-    background: linear-gradient(left top red, to right bottom yellow);
+    background: #593270;
+background: linear-gradient(165deg, rgba(89, 50, 112, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
 }
 
 /* body {
@@ -53,7 +54,6 @@ a {
 }
 
 header {
-    background-color: red;
     text-align: right;
     padding: 0 0% 10% 10%;
     margin-bottom: 20px;
@@ -87,7 +87,6 @@ main {
     padding: 50px;
     width: 1000px;
     border: 2px solid black;
-    background-color: red;
     display: flex;
     flex-direction: column;
     gap: 10px;
