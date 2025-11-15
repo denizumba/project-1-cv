@@ -48,4 +48,4 @@ Adicionar mais dinamismo e estilos com CSS
 Criar novas páginas treinando semântica
 Evoluir para projetos mais avançados do Frontend Roadmap
 
-<img src="resume-template-zyl70" alt="an image of the project designe">
+<img src="resume-template-zyl70.png" alt="an image of the project designe">
