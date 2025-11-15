@@ -23,6 +23,7 @@ Usei o CSS para deixar a página um pouco mais bonita, mas o foco deste projeto 
 
 📁 Estrutura do Repositório e link
 Acessar: https://denizumba.github.io/project-1-cv/
+Github: https://github.com/denizumba/project-1-cv
 /project-folder
 │── index.html
 │── styles.css
